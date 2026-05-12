@@ -1,24 +1,21 @@
-# Hai, Saya Reflon Siagian! 👋
+# Hi there, I'm Reflon Siagian
 
-Saya seorang mahasiswa yang memiliki ketertarikan besar dalam pengembangan web (Web Development) dan desain antarmuka modern. Saat ini, saya sedang menyelesaikan tugas akhir (skripsi) dan aktif magang di industri perbankan, di mana saya berfokus pada pengembangan solusi digital.
+Saya seorang web developer enthusiast dan mahasiswa tingkat akhir. Saat ini lagi sibuk nyusun skripsi dan ngerjain project magang di industri perbankan. Suka ngulik hal-hal baru seputar *backend* maupun *frontend*.
+
+### About Me
+
+-  **Currently working on:** Sistem perbankan digital berbasis web menggunakan framework Laravel dan metode RAD.
+-  **Currently learning:** Pendalaman arsitektur MVC, manajemen database tingkat lanjut, dan styling UI modern (terutama desain bertema cyberpunk/neon).
+-  **Ask me about:** PHP, MySQL, ekosistem Laravel, atau setup local development pakai Laragon.
+-  **How to reach me:** www.linkedin.com/in/
+reflon-siagiann
+Nama Vanity URL
+ atau email ke [reflonsiagian11@gmail.com]
+-  **Fun fact:** Paling asik ngoding sambil dengerin musik indie lokal (lagu-lagunya Perunggu lagi sering banget diputar) dan sambil belajar grammar bahasa Inggris buat persiapan tes.
 
 ---
 
-### 👨‍💻 Tentang Saya
-
-- 🔭 **Saat ini sedang mengerjakan:** Sistem perbankan digital berbasis web (Digital Banking System) menggunakan metodologi Rapid Application Development (RAD).
-- 🌱 **Saat ini sedang mempelajari:** Eksplorasi mendalam mengenai framework **Laravel**, arsitektur MVC, manajemen database, dan animasi CSS (khususnya tema *cyberpunk/neon aesthetics*).
-- 👯 **Ingin berkolaborasi pada:** Proyek pengembangan web yang inovatif atau desain antarmuka pengguna (UI/UX).
-- 🤔 **Sedang mencari bantuan untuk:** Best practices dalam pengembangan sistem dengan multi-level user (Admin, Analyst, Director) dan keamanan aplikasi web.
-- 💬 **Tanya saya tentang:** PHP, MySQL, Laravel, pengembangan web lokal menggunakan Laragon, dan tata bahasa Inggris (*English Grammar*).
-- 📫 **Cara menghubungi saya:** [Masukkan Link LinkedIn Anda di sini] atau melalui email di [Masukkan Email Anda].
-- ⚡ **Fakta menarik:** Saya sangat menyukai musik indie Indonesia (seperti Perunggu) dan senang memadukan kreativitas visual ke dalam barisan kode!
-
----
-
-### 🛠️ Bahasa & Teknologi yang Saya Gunakan
-
-*Berikut adalah beberapa teknologi yang biasa saya gunakan dalam proyek saya:*
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -27,14 +24,12 @@ Saya seorang mahasiswa yang memiliki ketertarikan besar dalam pengembangan web (
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
 ---
 
-### 📊 Statistik GitHub
+### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reflon-Siagian&show_icons=true&theme=radical" alt="Statistik GitHub Reflon" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reflon-Siagian&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reflon-Siagian&show_icons=true&theme=transparent&hide_border=true&title_color=1E3A8A&icon_color=1E3A8A&text_color=333333" alt="GitHub Stats" width="400" />
 </p>
